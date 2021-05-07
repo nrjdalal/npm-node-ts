@@ -1,0 +1,6 @@
+# files
+*.tgz
+# folders
+dist/
+node_modules/
+package/
